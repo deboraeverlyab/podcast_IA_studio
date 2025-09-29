@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  🎧 <a href="./output/podcast_editado.mp3">Escute o episódio (MP3)</a>
+  🎧 <a href="./output/podcast_editado.MP3">Escute o episódio (MP3)</a>
 </div>
 
 ---
