@@ -1,17 +1,16 @@
 <p align="center">
 <img 
-    src="./assets/capa.png"
+    src="./output/Gemini_Generated_Image_aaymj1aaymj1aaym.png"
     width="300"
 />
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+  🎧 <a href="./output/podcast_editado.mp3">Escute o episódio (MP3)</a>
 </div>
+
+---
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de Prompts Inteligentes.
 
@@ -32,7 +31,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 ## 📚 Passo a Passo feito no Notion
 
-- [Notion Template](https://www.notion.so/Podcast-AI-Studio-27de51344aa080548e9ee6d25428d44d?source=copy_link)
+- [Notion](https://www.notion.so/Podcast-AI-Studio-27de51344aa080548e9ee6d25428d44d?source=copy_link)
 
 
 ## 🛠️ Instruções de execução
